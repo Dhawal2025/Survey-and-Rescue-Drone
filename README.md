@@ -15,7 +15,7 @@ Code and resources for our project Survey and Rescue drone are in the folder.
 
 ![](./catkin_ws/srd_2.gif)
 
-**Flowchart of the different topics and nodes inter-communication.**
+**Flowchart of the communication between different topics and nodes.**
 ![](./catkin_ws/nodes_description.png)
 
 ![](./catkin_ws/flowchart1.png)
