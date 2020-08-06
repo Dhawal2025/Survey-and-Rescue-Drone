@@ -11,8 +11,15 @@ This project is mainly divided into 3 parts:-
 
 Code and resources for our project Survey and Rescue drone are in the folder.
 
+**GIF of our work done in this project.**
 
-![GIF of our work done in this project.](./catkin_ws/srd_2.gif)
+![](./catkin_ws/srd_2.gif)
 
+**Flowchart of the different topics and nodes inter-communication.**
+![](./catkin_ws/nodes_description.png)
 
-![Flowchart of the different topics and nodes inter-communication.](./catkin_ws/flowchart.png)
+![](./catkin_ws/flowchart1.png)
+
+![](./catkin_ws/topic_description.png)
+
+![](./catkin_ws/flowchart2.png)
