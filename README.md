@@ -9,7 +9,10 @@ This project is mainly divided into 3 parts:-
 3. Path Planning of quadcopter to nearest available active beacon.
 4. Traversing the computed by path planning script using PID.
 
-Code and resources for our project Survey and Rescue drone are in the /catkin_ws/src/survey_and_rescue_drone/scripts/ folder.
+Code and resources for our project Survey and Rescue drone are in the folder.
 
-GIF of our work done in this project.
-![](./catkin_ws/srd_2.gif)
+
+![GIF of our work done in this project.](./catkin_ws/srd_2.gif)
+
+
+![Flowchart of the different topics and nodes inter-communication.](./catkin_ws/flowchart.png)
